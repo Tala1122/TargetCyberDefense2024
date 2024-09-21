@@ -1,0 +1,9 @@
+Local Host 
+info 2024-04-18 06:42:31.188       gsvc   2344   2768   11                anynet.any_socket - Accept request from 1308555973 (via relay).
+info 2024-04-18 06:42:31.190       gsvc   2344   2768    2                      app.service - New ANY connection.
+info 2024-04-18 06:42:31.201       gsvc   2344   2768   53                anynet.any_socket - Accepting from 1308555973.
+info 2024-04-18 06:42:31.201       gsvc   2344   2768   53                anynet.any_socket - Retrieving client information.
+info 2024-04-18 06:42:31.546       gsvc   2344   2768   53                anynet.any_socket - Client-ID: 1308555973 (FPR: 4ca33409638e).
+info 2024-04-18 06:42:31.546       gsvc   2344   2768   53                anynet.any_socket - Logged in from 203.0.161.68:57213 on relay bb94445c.
+info 2024-04-18 06:42:31.559       gsvc   2344   2768   55           anynet.punch_connector - -> Spawning: 203.0.161.68:57303 (0).
+info 2024-04-18 08:00:44.887       gsvc   2344   2768    8                anynet.relay_conn - External address: 10.15.38.78:56836.

@@ -1,0 +1,218 @@
+[
+  {
+    "timestamp": "2024-04-17T10:15:23.000000",
+    "event_type": "alert",
+    "src_ip": "10.15.33.45",
+    "src_port": 12345,
+    "dest_ip": "203.0.159.67",
+    "dest_port": 80,
+    "proto": "TCP",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000001,
+      "rev": 1,
+      "signature": "Detected traffic to wood-chewers.trees",
+      "category": "Suspicious traffic",
+      "severity": 1
+    },
+    "http": {
+      "hostname": "wood-chewers.trees",
+      "url": "/",
+      "http_user_agent": "Mozilla/5.0",
+      "http_method": "CONNECT",
+      "protocol": "HTTP/1.1",
+      "status": "200",
+      "length": 310
+    }
+  },
+  {
+    "timestamp": "2024-04-17T14:22:19.000000",
+    "event_type": "alert",
+    "src_ip": "10.15.34.67",
+    "src_port": 12346,
+    "dest_ip": "203.0.159.67",
+    "dest_port": 80,
+    "proto": "TCP",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000001,
+      "rev": 1,
+      "signature": "Detected traffic to wood-chewers.trees",
+      "category": "Suspicious traffic",
+      "severity": 1
+    },
+    "http": {
+      "hostname": "wood-chewers.trees",
+      "url": "/",
+      "http_user_agent": "Mozilla/5.0",
+      "http_method": "GET",
+      "protocol": "HTTP/1.1",
+      "status": "200",
+      "length": 310
+    }
+  },
+  {
+    "timestamp": "2024-04-17T11:47:12.000000",
+    "event_type": "alert",
+    "src_ip": "10.15.35.89",
+    "src_port": 12347,
+    "dest_ip": "203.0.159.67",
+    "dest_port": 80,
+    "proto": "TCP",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000001,
+      "rev": 1,
+      "signature": "Detected traffic to wood-chewers.trees",
+      "category": "Suspicious traffic",
+      "severity": 1
+    },
+    "http": {
+      "hostname": "wood-chewers.trees",
+      "url": "/",
+      "http_user_agent": "Mozilla/5.0",
+      "http_method": "CONNECT",
+      "protocol": "HTTP/1.1",
+      "status": "200",
+      "length": 310
+    }
+  },
+  {
+    "timestamp": "2024-04-17T15:54:30.000000",
+    "event_type": "alert",
+    "src_ip": "10.15.36.23",
+    "src_port": 12348,
+    "dest_ip": "203.0.159.67",
+    "dest_port": 80,
+    "proto": "TCP",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000001,
+      "rev": 1,
+      "signature": "Detected traffic to wood-chewers.trees",
+      "category": "Suspicious traffic",
+      "severity": 1
+    },
+    "http": {
+      "hostname": "wood-chewers.trees",
+      "url": "/",
+      "http_user_agent": "Mozilla/5.0",
+      "http_method": "GET",
+      "protocol": "HTTP/1.1",
+      "status": "200",
+      "length": 310
+    }
+  },
+  {
+    "timestamp": "2024-04-17T12:05:45.000000",
+    "event_type": "alert",
+    "src_ip": "10.15.37.56",
+    "src_port": 12349,
+    "dest_ip": "203.0.159.67",
+    "dest_port": 80,
+    "proto": "TCP",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000001,
+      "rev": 1,
+      "signature": "Detected traffic to wood-chewers.trees",
+      "category": "Suspicious traffic",
+      "severity": 1
+    },
+    "http": {
+      "hostname": "wood-chewers.trees",
+      "url": "/",
+      "http_user_agent": "Mozilla/5.0",
+      "http_method": "CONNECT",
+      "protocol": "HTTP/1.1",
+      "status": "200",
+      "length": 310
+    }
+  },
+  {
+    "timestamp": "2024-04-17T20:17:25.000000",
+    "event_type": "alert",
+    "src_ip": "10.15.38.78",
+    "src_port": 12350,
+    "dest_ip": "203.0.159.67",
+    "dest_port": 80,
+    "proto": "TCP",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000001,
+      "rev": 1,
+      "signature": "Detected traffic to wood-chewers.trees",
+      "category": "Suspicious traffic",
+      "severity": 1
+    },
+    "http": {
+      "hostname": "wood-chewers.trees",
+      "url": "/",
+      "http_user_agent": "Mozilla/5.0",
+      "http_method": "POST",
+      "protocol": "HTTP/1.1",
+      "status": "200",
+      "length": 310
+    }
+  },
+  {
+    "timestamp": "2024-04-17T13:33:08.000000",
+    "event_type": "alert",
+    "src_ip": "10.15.39.90",
+    "src_port": 12351,
+    "dest_ip": "203.0.159.67",
+    "dest_port": 80,
+    "proto": "TCP",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000001,
+      "rev": 1,
+      "signature": "Detected traffic to wood-chewers.trees",
+      "category": "Suspicious traffic",
+      "severity": 1
+    },
+    "http": {
+      "hostname": "wood-chewers.trees",
+      "url": "/",
+      "http_user_agent": "Mozilla/5.0",
+      "http_method": "GET",
+      "protocol": "HTTP/1.1",
+      "status": "200",
+      "length": 310
+    }
+  },
+  {
+    "timestamp": "2024-04-17T17:03:47.000000",
+    "event_type": "alert",
+    "src_ip": "10.15.40.12",
+    "src_port": 12352,
+    "dest_ip": "203.0.159.67",
+    "dest_port": 80,
+    "proto": "TCP",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000001,
+      "rev": 1,
+      "signature": "Detected traffic to wood-chewers.trees",
+      "category": "Suspicious traffic",
+      "severity": 1
+    },
+    "http": {
+      "hostname": "wood-chewers.trees",
+      "url": "/",
+      "http_user_agent": "Mozilla/5.0",
+      "http_method": "CONNECT",
+      "protocol": "HTTP/1.1",
+      "status": "200",
+      "length": 310
+    }
+  }
+]
