@@ -1,0 +1,28 @@
+Local Host : (Incoming from remote host)
+info 2024-04-19 07:27:03.176       back   5988   6432                                  main - * AnyDesk Windows Startup *
+info 2024-04-19 07:27:03.176       back   5988   6432                                  main - Command Line params: "C:\Program Files (x86)\AnyDesk\AnyDesk.exe" --backend
+info 2024-04-19 07:27:03.176       back   5988   6432                                  main - Process started at 2024-04-19. PID 5988. OS is Windows 10 (64 bit)
+info 2024-04-19 07:27:03.536       back   5988   2128                   app.backend_session - Incoming session request: wctf24 (1981434133)
+info 2024-04-19 07:27:03.539       back   5988   6432                          wgf.msg_loop - Waiting for events.
+info 2024-04-19 07:27:03.539       back   5988   2128                   app.backend_session - Remote OS: Windows, Connection flags: direct paid 3 4 
+info 2024-04-19 07:27:03.539       back   5988   2128                   app.backend_session - Remote version: 8.0.3
+info 2024-04-19 07:29:25.156       ctrl   5792   3748                       base.task_queue - Waiting for commands.
+info 2024-04-19 07:30:43.925       ctrl   5792   5580                 app.file_progress_hub - Registered notifications.
+info 2024-04-19 07:30:43.927       ctrl   5792   5580               app.local_file_transfer - Download started (0).
+info 2024-04-19 07:30:45.712       ctrl   5792   5580               app.local_file_transfer - Download finished.
+info 2024-04-19 07:33:18.808       ctrl   5792   3748                      app.prepare_task - Preparing files in 'C:\Users\TimmyTermite\Desktop\fun_files'.
+info 2024-04-19 07:33:47.995       ctrl   5792   3748               app.local_file_transfer - Preparation of 1 files completed (io_ok).
+info 2024-04-19 07:36:56.389       back   5988   6432                       win_app.backend - Disabling backend.
+info 2024-04-19 07:36:56.390       back   5988   6872                   app.backend_session - Stopping session.
+info 2024-04-19 07:36:56.394       back   5988   6432                       win_app.backend - Initiating shutdown.
+info 2024-04-19 07:36:56.419       back   5988   2128                   app.backend_session - The socket was closed remotely.
+info 2024-04-19 07:36:56.425       ctrl   5792   5580               app.local_file_transfer - Stopping.
+info 2024-04-19 07:36:56.427       ctrl   5792   5580                 app.file_progress_hub - Unregistered notifications.
+info 2024-04-19 07:36:56.427       ctrl   5792   5580               app.local_file_transfer - File transfer stopped.
+info 2024-04-19 07:36:56.430       ctrl   5792   5580                        ad_app.control - Session count: (0, 0, 0).
+info 2024-04-19 07:36:56.430       ctrl   5792   5580                       clipbrd.capture - Unregistered clipboard notification.
+info 2024-04-19 07:36:56.430       ctrl   5792   5580                    app.ctrl_clip_comp - Terminated.
+info 2024-04-19 07:36:56.437       back   5988   6872              audio.core_audio_capture - Cleaning up.
+info 2024-04-19 07:36:56.442       back   5988   6872                   app.backend_session - Session stopped.
+info 2024-04-19 07:36:56.444       back   5988   6872                   app.backend_session - Destroying.
+info 2024-04-19 07:36:56.444       back   5988   6872                   app.backend_session - Destroyed.
